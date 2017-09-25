@@ -1,7 +1,0 @@
-sf,dataset,dataID,data,shpID,title,desc,filename,west,east,south,north
-Data/van-csd11/van-csd11,Data/2011census/sheltercosts.xlsx,CSDUID,Total,CSDUID,"Vancouver Housing Affordability, 2011",% of households spending more than 30% of income on housing,Results/Affordability.pdf,-123.3,49.04,-122.54,49.41
-Data/van-csd11/van-csd11,Data/2011census/immigrationratio.xlsx,CSDUID,Total,CSDUID,"Vancouver Immigrant Populations, 2011","Immigrants, as % of population",Results/ImmigrationRatio.pdf,-123.3,49.04,-122.54,49.41
-Data/van-csd11/van-csd11,Data/2011census/medianhomevalue.xlsx,CSDUID,Total,CSDUID,"Vancouver Home Prices, 2011","Median home prices, in 2011 CAD",Results/MedianHomeValue.pdf,-123.3,49.04,-122.54,49.41
-Data/van-csd11/van-csd11,Data/2011census/medianrent.xlsx,CSDUID,Total,CSDUID,"Vancouver Monthly Rent, 2011","Median monthly rent costs, in 2011 CAD",Results/MedianRents.pdf,-123.3,49.04,-122.54,49.41
-Data/van-csd11/van-csd11,Data/2011census/visibleminorityratio.xlsx,CSDUID,Total,CSDUID,"Vancouver Visible Minorities, 2011","Visible minority population, as % of population",Results/VisibleMinorityRatio.pdf,-123.3,49.04,-122.54,49.41
-Data/van-csd11/van-csd11,Data/2011census/householdincome.xlsx,CSDUID,Total,CSDUID,"Vancouver Household Incomes, 2011","Household incomes, in 2011 CAD",Results/HouseholdIncome.pdf,-123.3,49.04,-122.54,49.41
