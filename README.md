@@ -58,4 +58,5 @@ For more examples, see pdf-output/.
 
 
 (c) Jason Liu 2017.
+
 *Note: this data is an unofficial version of the original source materials, and this project is not affiliated or endorsed in any way by Statistics Canada or the Government of Canada.*
