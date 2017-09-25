@@ -11,14 +11,14 @@ Vancouver Housing Maps: creating a Python and matplotlib-based platform for mapp
 For more examples, see pdf-output/.
 
 ## Description of files
-   README - this file, an overview of the project
-   Contract.pdf - project proposal
+   README.md - this file, an overview of the project
 
    shp.py - the *main file*, this includes the Dataplot class, a set of tools to 
             draw shapefile data, parse and bind geographically sorted data, and 
             plot using matplotlib.
 
    dataFilter.py - uses Pandas to filter large xlsx/csv files by keywords.
+  
    vanData.py - reads metadata.csv to iterate through several pre-prepared
                 metrics from census data in Vancouver.
 
@@ -26,8 +26,10 @@ For more examples, see pdf-output/.
                   gives titles and descriptions
    
    Affordability.pdf - sample output, colour-based map of Vancouver housing data
-   Results/ - 6 different maps of different data points generated with vanData.py
-   Data/ - geographical shapefiles and census data
+   
+   pdf-output/ - 6 different maps of different data points generated with vanData.py
+   
+   data/ - geographical shapefiles and census data
 
 ## Additional modules required by this software: 
    pillow, matplotlib, requests, numpy, pyshp, shapely, descartes, pandas, xlrd, xlwt
