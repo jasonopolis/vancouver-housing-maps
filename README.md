@@ -1,6 +1,6 @@
 # Mapping Vancouver's Housing Affordability Crisis
 
-Vancouver Housing Maps: creating a Python and matplotlib-based platform for mapping Canadian census data. Example usage for this project involved using 2011 National Housing Survey data from Statistics Canada to map different housing affordability data points across different regions in the Metro Vancouver area.
+Vancouver Housing Maps: creating a Python matplotlib-based platform for mapping Canadian census data. Example usage for this project involved using 2011 National Housing Survey data from Statistics Canada to map different housing affordability data points across different regions in the Metro Vancouver area.
 
 ## Examples
 
